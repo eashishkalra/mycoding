@@ -5,6 +5,3 @@ This is the first file in the repo.
 
 Hi Ashish This is Ipsum Text
 
-## More ipsum
-
-HI
